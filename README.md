@@ -29,6 +29,10 @@ Feature engineering involves extracting and selecting important variables based 
 
 **User Interface:** A simple GUI for real-time news verification by users.
 
+### The Web Interface
+
+![WhatsApp Image 2024-06-06 at 17 25 44_acf837d9](https://github.com/jicsjitu/Fake_News_Using_ML/assets/162569175/ceffe157-c481-46ab-bf61-1adcdcd2bf1c)
+
 ### Dataset
 
 The dataset includes labeled news articles with the following attributes:
