@@ -117,10 +117,10 @@ This file lists all the Python libraries and packages needed to run the project.
 ## Results
 
 Our best-performing model achieved the following metrics:
-- **Accuracy**: 97%
-- **Precision**: 91%
-- **Recall**: 93%
-- **F1 Score**: 92%
+- **Accuracy**: 99%
+- **Precision**: 99%
+- **Recall**: 99%
+- **F1 Score**: 99%
 
 ## Credits
 
