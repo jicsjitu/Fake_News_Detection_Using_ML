@@ -1,13 +1,13 @@
 # 📰 Fake News Detection Using Machine Learning
 
-## Overview
+## 🔍 Overview
 The spread of fake news on the internet is a big problem today. This project aims to create a machine-learning model that can tell whether a news article is fake or real. We use different techniques to analyze and understand the text in these articles. Our dataset includes articles that are already labeled as 'fake' or 'real', which helps us train and test our model.
 
-## Objective
+## 📝 Objective
 
 The main goal is to accurately classify news articles as either 'fake' or 'real' based on their content. By leveraging the power of machine learning and text analysis, we aim to create a reliable tool that can help mitigate the spread of misinformation.
 
-## Dataset
+## 📄 Dataset
 
 The dataset used in this project is sourced from the [Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets). It includes a balanced set of labeled news articles, which consist of the following features:
 
@@ -15,7 +15,7 @@ The dataset used in this project is sourced from the [Dataset](https://www.kaggl
 - **Text**: The full-text content of the news article.
 - **Label**: 1 for fake news and 0 for real news.
 
-## Methodology
+## 📋 Methodology
 
 ### i. Data Preprocessing:
 
@@ -38,15 +38,15 @@ The dataset used in this project is sourced from the [Dataset](https://www.kaggl
 - **Prediction Script**: Creating a Python script to predict whether a new article is fake or real.
 - **Web Interface (Optional)**: Developing a simple web application using Streamlit for news classification.
 
-## Requirements
+## ✅ Requirements
 
 - **Python 3.x**
 - **Libraries**: pandas, numpy, scikit-learn, nltk, matplotlib, seaborn, Streamlit (optional), etc.
 
-## The Web Interface
+## 🌐 The Web Interface
 ![WhatsApp Image 2024-06-25 at 22 58 42_6c529be6](https://github.com/jicsjitu/Fake_News_Using_ML/assets/162569175/1dc301d6-337a-4b87-a984-21bdc0fa9402)
 
-## Testing Model
+## 🧪 Testing Model
 i. **For True News** 
 
 ![WhatsApp Image 2024-06-25 at 23 02 17_7eb13c2b](https://github.com/jicsjitu/Fake_News_Using_ML/assets/162569175/50abbd22-91d8-46fa-bba6-d56bc1ccdcc6)
@@ -55,7 +55,7 @@ ii. **For Fake News**
 
 ![WhatsApp Image 2024-06-25 at 23 03 56_1155faec](https://github.com/jicsjitu/Fake_News_Using_ML/assets/162569175/77174024-0819-4409-b2dc-291899009645)
 
-## Usage
+## 🖥️ Usage
 
 i. **Clone the repository**:
    ```bash
@@ -68,7 +68,7 @@ ii. **Install the required libraries**:
    pip install -r requirements.txt
    ```
 
-## Files in the Repository
+## 📁 Files in the Repository
 
 Certainly! Here’s a simple description of each file and folder in the repository:
 
@@ -114,7 +114,7 @@ This is a PowerPoint presentation that explains the project. It includes slides 
 
 This file lists all the Python libraries and packages needed to run the project. By installing these dependencies, you can ensure your environment is set up correctly to execute the code and scripts in this project. 
 
-## Results
+## 📈 Results
 
 Our best-performing model achieved the following metrics:
 - **Accuracy**: 99%
@@ -122,11 +122,11 @@ Our best-performing model achieved the following metrics:
 - **Recall**: 99%
 - **F1 Score**: 99%
 
-## Credits
+## 👤 Credits
 
 - **Dataset**: [Dataset](https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets)
 
-## Feedback and Questions
+## 💬 Feedback and Questions
 
 If you have any feedback or questions about the project, please feel free to ask. We appreciate your input and are here to help. You can reach out by opening an issue on GitHub or by emailing me at jitukumar9387@gmail.com.
 
